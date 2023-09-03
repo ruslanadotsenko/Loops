@@ -15,12 +15,3 @@ public class Main {
         System.out.println("------------------------\nSum of numbers is " + sum);
     }
 }
-//------------ another way ------------------------
-//        for (int num : numArr) {
-//            sum += num;
-//            System.out.println(numeration + ") Num is " + num + ", sum is " + sum);
-//            numeration++;
-//        }
-//        System.out.println("------------------------\nSum of numbers is " + sum);
-//    }
-//}
